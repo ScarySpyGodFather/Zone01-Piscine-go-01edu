@@ -9,8 +9,10 @@ Utility Scripts: Shell scripts for project management and other tasks.
 Getting Started
 To get started with these exercises, clone the repository and navigate to the desired directory. Each folder contains specific instructions and examples to guide you through the exercises.
 
+```bash
 git clone https://github.com/ScarySpyGodFather/Zone01-Piscine-go-01edu.git
 cd Zone01-Piscine-go-01edu
+```
 
 Contributing
 Contributions are welcome! If you have any improvements or additional exercises, feel free to submit a pull request.

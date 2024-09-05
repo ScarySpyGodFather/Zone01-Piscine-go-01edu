@@ -1,12 +1,12 @@
-Zone01 Piscine go 01edu
+**Zone01 Piscine go 01edu** /n
 Welcome to the Zone01-Piscine-go-01edu repository! This collection of Go programming exercises and projects is part of the Zone 01 Piscine at 01Edu. It is designed to help learners practice and master various Go programming concepts through hands-on experience.
 
-Contents
-Basic Go Functions: Implementations of fundamental functions such as atoi, isalpha, tolower, and more.
-Data Structures: Examples and exercises involving binary trees, linked lists, and other essential data structures.
-Algorithms: Practice with sorting algorithms, factorial calculations, and other algorithmic challenges.
-Utility Scripts: Shell scripts for project management and other tasks.
-Getting Started
+**Contents**
+*Basic Go Functions*: Implementations of fundamental functions such as atoi, isalpha, tolower, and more.
+*Data Structures*: Examples and exercises involving binary trees, linked lists, and other essential data structures.
+*Algorithms*: Practice with sorting algorithms, factorial calculations, and other algorithmic challenges.
+*Utility Scripts*: Shell scripts for project management and other tasks.
+**Getting Started** /n
 To get started with these exercises, clone the repository and navigate to the desired directory. Each folder contains specific instructions and examples to guide you through the exercises.
 
 ```bash

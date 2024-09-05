@@ -6,6 +6,7 @@ Welcome to the Zone01-Piscine-go-01edu repository! This collection of Go program
 *Data Structures*: Examples and exercises involving binary trees, linked lists, and other essential data structures.<br>
 *Algorithms*: Practice with sorting algorithms, factorial calculations, and other algorithmic challenges.<br>
 *Utility Scripts*: Shell scripts for project management and other tasks.<br>
+
 **Getting Started**<br>
 To get started with these exercises, clone the repository and navigate to the desired directory. Each folder contains specific instructions and examples to guide you through the exercises.<br>
 
